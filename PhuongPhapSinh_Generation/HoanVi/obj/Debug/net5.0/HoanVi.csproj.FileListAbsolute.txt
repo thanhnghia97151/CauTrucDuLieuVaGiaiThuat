@@ -1,0 +1,16 @@
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\bin\Debug\net5.0\HoanVi.exe
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\bin\Debug\net5.0\HoanVi.deps.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\bin\Debug\net5.0\HoanVi.runtimeconfig.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\bin\Debug\net5.0\HoanVi.runtimeconfig.dev.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\bin\Debug\net5.0\HoanVi.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\bin\Debug\net5.0\ref\HoanVi.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\bin\Debug\net5.0\HoanVi.pdb
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\obj\Debug\net5.0\HoanVi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\obj\Debug\net5.0\HoanVi.AssemblyInfoInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\obj\Debug\net5.0\HoanVi.AssemblyInfo.cs
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\obj\Debug\net5.0\HoanVi.csproj.CoreCompileInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\obj\Debug\net5.0\HoanVi.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\obj\Debug\net5.0\ref\HoanVi.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\obj\Debug\net5.0\HoanVi.pdb
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\obj\Debug\net5.0\HoanVi.genruntimeconfig.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\HoanVi\obj\Debug\net5.0\HoanVi.csproj.AssemblyReference.cache

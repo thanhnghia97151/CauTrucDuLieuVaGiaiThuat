@@ -1,0 +1,15 @@
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\bin\Debug\net5.0\exam.exe
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\bin\Debug\net5.0\exam.deps.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\bin\Debug\net5.0\exam.runtimeconfig.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\bin\Debug\net5.0\exam.runtimeconfig.dev.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\bin\Debug\net5.0\exam.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\bin\Debug\net5.0\ref\exam.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\bin\Debug\net5.0\exam.pdb
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\obj\Debug\net5.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\obj\Debug\net5.0\exam.AssemblyInfoInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\obj\Debug\net5.0\exam.AssemblyInfo.cs
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\obj\Debug\net5.0\exam.csproj.CoreCompileInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\obj\Debug\net5.0\exam.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\obj\Debug\net5.0\ref\exam.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\obj\Debug\net5.0\exam.pdb
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\exam\obj\Debug\net5.0\exam.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exam_Chon_K_Nguoi_Trong_N_Nguoi/1.0.0": {
+        "runtime": {
+          "Exam_Chon_K_Nguoi_Trong_N_Nguoi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam_Chon_K_Nguoi_Trong_N_Nguoi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

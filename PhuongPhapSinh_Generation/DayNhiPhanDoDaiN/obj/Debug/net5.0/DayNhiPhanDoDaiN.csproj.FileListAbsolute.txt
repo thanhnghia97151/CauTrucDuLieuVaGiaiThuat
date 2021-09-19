@@ -1,0 +1,16 @@
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\bin\Debug\net5.0\DayNhiPhanDoDaiN.exe
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\bin\Debug\net5.0\DayNhiPhanDoDaiN.deps.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\bin\Debug\net5.0\DayNhiPhanDoDaiN.runtimeconfig.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\bin\Debug\net5.0\DayNhiPhanDoDaiN.runtimeconfig.dev.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\bin\Debug\net5.0\DayNhiPhanDoDaiN.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\bin\Debug\net5.0\ref\DayNhiPhanDoDaiN.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\bin\Debug\net5.0\DayNhiPhanDoDaiN.pdb
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\obj\Debug\net5.0\DayNhiPhanDoDaiN.csproj.AssemblyReference.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\obj\Debug\net5.0\DayNhiPhanDoDaiN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\obj\Debug\net5.0\DayNhiPhanDoDaiN.AssemblyInfoInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\obj\Debug\net5.0\DayNhiPhanDoDaiN.AssemblyInfo.cs
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\obj\Debug\net5.0\DayNhiPhanDoDaiN.csproj.CoreCompileInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\obj\Debug\net5.0\DayNhiPhanDoDaiN.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\obj\Debug\net5.0\ref\DayNhiPhanDoDaiN.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\obj\Debug\net5.0\DayNhiPhanDoDaiN.pdb
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\DayNhiPhanDoDaiN\obj\Debug\net5.0\DayNhiPhanDoDaiN.genruntimeconfig.cache

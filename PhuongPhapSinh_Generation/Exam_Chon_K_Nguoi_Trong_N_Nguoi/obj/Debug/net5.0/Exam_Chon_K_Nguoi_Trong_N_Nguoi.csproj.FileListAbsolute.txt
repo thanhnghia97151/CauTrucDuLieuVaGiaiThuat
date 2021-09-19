@@ -1,0 +1,16 @@
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\bin\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.exe
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\bin\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.deps.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\bin\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.runtimeconfig.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\bin\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.runtimeconfig.dev.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\bin\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\bin\Debug\net5.0\ref\Exam_Chon_K_Nguoi_Trong_N_Nguoi.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\bin\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.pdb
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\obj\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.csproj.AssemblyReference.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\obj\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\obj\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.AssemblyInfoInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\obj\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.AssemblyInfo.cs
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\obj\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.csproj.CoreCompileInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\obj\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\obj\Debug\net5.0\ref\Exam_Chon_K_Nguoi_Trong_N_Nguoi.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\obj\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.pdb
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\Exam_Chon_K_Nguoi_Trong_N_Nguoi\obj\Debug\net5.0\Exam_Chon_K_Nguoi_Trong_N_Nguoi.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\DeQuy_BaiToanGiaiThua\bin\Debug\DeQuy_BaiToanGiaiThua.exe.config
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\DeQuy_BaiToanGiaiThua\bin\Debug\DeQuy_BaiToanGiaiThua.exe
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\DeQuy_BaiToanGiaiThua\bin\Debug\DeQuy_BaiToanGiaiThua.pdb
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\DeQuy_BaiToanGiaiThua\obj\Debug\DeQuy_BaiToanGiaiThua.csproj.AssemblyReference.cache
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\DeQuy_BaiToanGiaiThua\obj\Debug\DeQuy_BaiToanGiaiThua.csproj.CoreCompileInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\DeQuy_BaiToanGiaiThua\obj\Debug\DeQuy_BaiToanGiaiThua.exe
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\DeQuy_BaiToanGiaiThua\obj\Debug\DeQuy_BaiToanGiaiThua.pdb

@@ -1,0 +1,16 @@
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\bin\Debug\net5.0\LietKeCacTapConK_PhanTu.exe
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\bin\Debug\net5.0\LietKeCacTapConK_PhanTu.deps.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\bin\Debug\net5.0\LietKeCacTapConK_PhanTu.runtimeconfig.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\bin\Debug\net5.0\LietKeCacTapConK_PhanTu.runtimeconfig.dev.json
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\bin\Debug\net5.0\LietKeCacTapConK_PhanTu.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\bin\Debug\net5.0\ref\LietKeCacTapConK_PhanTu.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\bin\Debug\net5.0\LietKeCacTapConK_PhanTu.pdb
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\obj\Debug\net5.0\LietKeCacTapConK_PhanTu.csproj.AssemblyReference.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\obj\Debug\net5.0\LietKeCacTapConK_PhanTu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\obj\Debug\net5.0\LietKeCacTapConK_PhanTu.AssemblyInfoInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\obj\Debug\net5.0\LietKeCacTapConK_PhanTu.AssemblyInfo.cs
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\obj\Debug\net5.0\LietKeCacTapConK_PhanTu.csproj.CoreCompileInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\obj\Debug\net5.0\LietKeCacTapConK_PhanTu.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\obj\Debug\net5.0\ref\LietKeCacTapConK_PhanTu.dll
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\obj\Debug\net5.0\LietKeCacTapConK_PhanTu.pdb
+E:\Cấu trúc dữ liệu và giải thuật\PhuongPhapSinh_Generation\LietKeCacTapConK_PhanTu\obj\Debug\net5.0\LietKeCacTapConK_PhanTu.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\C_Shape_Basic\bin\Debug\C_Shape_Basic.exe.config
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\C_Shape_Basic\bin\Debug\C_Shape_Basic.exe
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\C_Shape_Basic\bin\Debug\C_Shape_Basic.pdb
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\C_Shape_Basic\obj\Debug\C_Shape_Basic.csproj.AssemblyReference.cache
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\C_Shape_Basic\obj\Debug\C_Shape_Basic.csproj.CoreCompileInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\C_Shape_Basic\obj\Debug\C_Shape_Basic.exe
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\C_Shape_Basic\obj\Debug\C_Shape_Basic.pdb

@@ -1,0 +1,7 @@
+E:\Cấu trúc dữ liệu và giải thuật\DeQuyVaGiaiThuatDeQuy\GiaiThua\bin\Debug\GiaiThua.exe.config
+E:\Cấu trúc dữ liệu và giải thuật\DeQuyVaGiaiThuatDeQuy\GiaiThua\bin\Debug\GiaiThua.exe
+E:\Cấu trúc dữ liệu và giải thuật\DeQuyVaGiaiThuatDeQuy\GiaiThua\bin\Debug\GiaiThua.pdb
+E:\Cấu trúc dữ liệu và giải thuật\DeQuyVaGiaiThuatDeQuy\GiaiThua\obj\Debug\GiaiThua.csproj.AssemblyReference.cache
+E:\Cấu trúc dữ liệu và giải thuật\DeQuyVaGiaiThuatDeQuy\GiaiThua\obj\Debug\GiaiThua.csproj.CoreCompileInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\DeQuyVaGiaiThuatDeQuy\GiaiThua\obj\Debug\GiaiThua.exe
+E:\Cấu trúc dữ liệu và giải thuật\DeQuyVaGiaiThuatDeQuy\GiaiThua\obj\Debug\GiaiThua.pdb

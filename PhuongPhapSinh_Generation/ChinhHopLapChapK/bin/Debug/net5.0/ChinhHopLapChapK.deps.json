@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ChinhHopLapChapK/1.0.0": {
+        "runtime": {
+          "ChinhHopLapChapK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChinhHopLapChapK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

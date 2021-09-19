@@ -1,0 +1,7 @@
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\BubbleSort\bin\Debug\BubbleSort.exe.config
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\BubbleSort\bin\Debug\BubbleSort.exe
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\BubbleSort\bin\Debug\BubbleSort.pdb
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\BubbleSort\obj\Debug\BubbleSort.exe
+E:\Cấu trúc dữ liệu và giải thuật\CauTrucDuLieuVaGiaiThuat\BubbleSort\obj\Debug\BubbleSort.pdb
